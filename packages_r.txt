@@ -1,0 +1,5 @@
+# packages_r.txt
+tidyverse
+randomForest
+caret
+reshape2

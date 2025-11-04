@@ -1,0 +1,17 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyd
+.Rhistory
+.RData
+.Rproj.user/
+Rplots.pdf
+.idea/
+.vscode/
+*.iml
+*.log
+*.png
+*.jpg
+*.pkl
+*.model
