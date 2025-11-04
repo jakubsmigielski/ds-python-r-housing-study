@@ -17,7 +17,7 @@ The initial analysis revealed strong linear relationships between the log-transf
 ### 3. Model Residual Analysis
 ![](plots/plot3.png)
 
----
+
 
 ##  Model Performance & Feature Importance
 
@@ -37,7 +37,7 @@ This combined visual report summarizes the model's accuracy and identifies the m
 |:---|:---|
 | Predicted Price (PLN) | ~578,438 |
 | R-squared (R²) | ~0.68 |
----
+
 ### python:
 pandas
 numpy
@@ -49,6 +49,7 @@ tidyverse
 randomForest
 caret
 reshape2
+
 
 
 
