@@ -3,7 +3,6 @@
 This educational project performs an advanced data analysis and machine learning study on Polish housing prices, demonstrating proficiency in **Python**  and **R**.
 To build a robust predictive model and derive actionable insights into the primary factors driving real estate prices in major Polish cities.
 
----
 
 ## Key Visual Insights 
 
@@ -50,5 +49,6 @@ tidyverse
 randomForest
 caret
 reshape2
+
 
 
