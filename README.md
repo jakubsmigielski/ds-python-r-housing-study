@@ -38,7 +38,7 @@ This combined visual report summarizes the model's accuracy and identifies the m
 | Predicted Price (PLN) | ~578,438 |
 | R-squared (R²) | ~0.68 |
 
---
+---
 
 ### python:
 pandas
@@ -51,6 +51,7 @@ tidyverse
 randomForest
 caret
 reshape2
+
 
 
 
