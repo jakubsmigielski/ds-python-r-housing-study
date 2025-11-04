@@ -28,7 +28,7 @@ The project utilized the **Random Forest Regressor** due to its superior perform
 
 This combined visual report summarizes the model's accuracy and identifies the most influential variables.
 
-![](data/plot4.png)
+##![](plots/plot4.png)
 
 **Key Insight:** The model confirms that **Area [sq m]** is the primary driver of price, followed by **City**, while the number of rooms has a relatively minor impact.
 
@@ -50,4 +50,5 @@ tidyverse
 randomForest
 caret
 reshape2
+
 
