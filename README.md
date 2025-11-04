@@ -10,13 +10,13 @@ To build a robust predictive model and derive actionable insights into the prima
 The initial analysis revealed strong linear relationships between the log-transformed price and area, and clear price differences across cities.
 
 ### 1. Relationship Between Log(Price) and Area
-![](data/plot1.png)
+![](plots/plot1.png)
 
 ### 2. Price Distribution Across Cities
-![](data/plot2.png)
+![](plots/plot2.png)
 
 ### 3. Model Residual Analysis
-![](data/plot3.png)
+![](plots/plot3.png)
 
 ---
 
@@ -50,3 +50,4 @@ tidyverse
 randomForest
 caret
 reshape2
+
